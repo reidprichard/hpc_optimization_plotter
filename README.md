@@ -1,1 +1,1 @@
-A simple Python module providing the implementation of the Prichard diagram, a novel graphical optimization technique for provisioning high-performance computing hardware. An example and sample data are found in ./samples.
+A simple Python module providing the implementation of the Prichard diagram, a novel graphical optimization technique for provisioning high-performance computing hardware. An example and sample data are found in [samples](https://github.com/reidprichard/hpc_optimization_plotter/tree/main/samples).
