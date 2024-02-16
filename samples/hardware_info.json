@@ -1,0 +1,17 @@
+{
+    "alpha": {
+        "marker": "o",
+        "cores": 44,
+        "cost_per_node_per_hour": 3
+    },
+    "beta": {
+        "marker": "s",
+        "cores": 120,
+        "cost_per_node_per_hour": 7
+    },
+    "gamma": {
+        "marker": "^",
+        "cores": 120,
+        "cost_per_node_per_hour": 9
+    }
+}
