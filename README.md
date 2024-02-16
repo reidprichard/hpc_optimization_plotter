@@ -1,0 +1,1 @@
+A simple Python module providing the implementation of the Prichard diagram, a novel graphical optimization technique for provisioning high-performance computing hardware. An example and sample data are found in ./samples.
